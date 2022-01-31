@@ -3,7 +3,7 @@
 Yet another remix of my Pac-Man game made in Python. Hopefully this one will be the last one but we shall see. 
 
 What's staying the same:
-  - Pygame will still be used, as I honestly don't really want to lwarn yet another game engine
+  - Pygame will still be used, as I honestly don't really want to learn yet another game engine
   - While I'm grabbing new image files for them anyway, pacman and the ghosts will be mostly untouched. Hopefully
 
 Rather than making walls and pellets, and thus needing the ghosts to effectively bounce off of them, this time I'm shooting for a tile based approach. This should help the ghosts "see" where they are and "see" ahead of themselves and be able to do some routing. Should hopefully make the AI easier to setup. But we shall see
